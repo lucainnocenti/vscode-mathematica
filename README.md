@@ -3,4 +3,4 @@
 Just some basic Mathematica syntax highlighting.
 
 ## Installation
-Copy/clone this repo into the `<user home>/.vscode/extensions` folder and restart Code.
+Copy/clone this repo in `<user home>/.vscode/extensions` and restart Code.
